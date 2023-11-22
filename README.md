@@ -11,8 +11,8 @@ I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
 ### Assessing performance of Google Model Viewer for extracting 3D model dimension data
 
 [View prototype](https://dvdjrnx.github.io/model-viewer-dimensions)
-[Download a .glb file for testing](https://github.com/dvdjrnx/model-viewer-dimensions/blob/master/public/hamburger-draco.glb)
 
+[Download a .glb file for testing](https://github.com/dvdjrnx/model-viewer-dimensions/blob/master/public/hamburger-draco.glb)
 <img src="./public/download-glb.png" alt="Image showing where to download the mentioned .glb file in the linked GitHub repository page" />
 
 This project was a prototyping test explored as part of my 3D and AR/VR work with Shopify. It tested `<model-viewer>`'s `getDimensions()` method for performance viability in a project that required quickly assessing a model's dimensions to facilitate further business logic down the line.
