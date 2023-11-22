@@ -18,7 +18,10 @@ Included in the code is a call to `console.time('getDimensions')` that runs on f
 
 UI was not a focus for this test.
 
+<hr />
+
 [View prototype](https://dvdjrnx.github.io/model-viewer-dimensions)
 
 [Download a .glb file for testing](https://github.com/dvdjrnx/model-viewer-dimensions/blob/master/public/hamburger-draco.glb)
+
 <img src="./public/download-glb.png" alt="Image showing where to download the mentioned .glb file in the linked GitHub repository page" />
