@@ -25,6 +25,7 @@ UI was not a focus for this test.
 [View prototype](https://dvdjrnx.github.io/model-viewer-dimensions)
 
 The following link will take you to a GitHub repository page where you can download a .glb file if you don't have your own for testing. The download button the repository page is shown in the image below.
+
 [Download a .glb file for testing](https://github.com/dvdjrnx/model-viewer-dimensions/blob/master/public/hamburger-draco.glb)
 
 <img src="./public/download-glb.png" alt="Image showing where to download the mentioned .glb file in the linked GitHub repository page" />
