@@ -79,6 +79,4 @@ The link above will take you to a GitHub repository page where you can download 
 
 [Back to top](#dvdjrnxgithubio)
 
-<br>
-
 <hr>
