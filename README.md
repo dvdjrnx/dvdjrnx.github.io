@@ -37,7 +37,7 @@ A quick and dirty prototype of a Google Model Viewer-based 3D model dimension ex
 
 <br>
 
-This project was a prototyping test explored as part of my 3D and AR/VR work with Shopify.
+This project was a prototyping test explored as part of my 3D and AR/VR work with Shopify. It tested `<model-viewer>`'s `getDimensions()` method for performance viability in a project that required quickly assessing a model's dimensions to facilitate further business logic down the line.
 
 </details>
 
