@@ -40,7 +40,12 @@ Included in the code is a call to `console.time('getDimensions')` that runs on f
 
 UI was not a focus for this test.
 
+<details>
+
+<summary>Project image</summary>
+
 <img src="./public/model-viewer-dimensions.png" alt="Screenshot of prototype showing a Marshall amp model loaded in the UI with dimensions displayed and the timing results shown in Dev Tools" />
+
 </details>
 
 <br>
