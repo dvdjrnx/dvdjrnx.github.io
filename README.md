@@ -28,8 +28,6 @@ I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
 
 <br>
 
-`test`
-
 #### Project summary
 
 A quick and dirty prototype of a Google Model Viewer-based 3D model dimension extractor.
@@ -38,6 +36,8 @@ A quick and dirty prototype of a Google Model Viewer-based 3D model dimension ex
 <summary>Read more</summary>
 
 <br>
+
+`test`
 
 This project was a prototyping test explored as part of my 3D and AR/VR work with Shopify. It tested method for performance viability in a project that required quickly assessing a model's dimensions to facilitate further business logic down the line.
 
