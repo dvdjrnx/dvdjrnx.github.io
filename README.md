@@ -9,7 +9,7 @@ To be frank, my most recent professional development and growth has occurred wit
 - Building features for **Shopify** as one of their software engineers
 - Creating prototypes for my own passion project, **The Altered**.
 
-In light of this, I've not done much that reflects my current skillset within the public sphere. It's my hope this site will help to change that, presenting new, public projects that demonstrate my expertise and learnings in development and user experience with time.
+In light of this, I've not done much that reflects my current skillset within the public sphere. It's my hope this site will help to change that, presenting new, public projects that accurately demonstrate my expertise and learnings in development and user experience with time.
 
 I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
 
