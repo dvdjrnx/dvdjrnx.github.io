@@ -30,17 +30,18 @@ I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
 
 ### [Model Dimension Extraction Test](https://dvdjrnx.github.io/model-viewer-dimensions)
 
-<img src="./public/model-viewer-dimensions-banner.png" alt="Banner showing the model dimension extraction test UI." />
+**[View GitHub Repo](https://dvdjrnx.github.io/model-viewer-dimensions)** • **[View live prototype](https://dvdjrnx.github.io/model-viewer-dimensions)** • best viewed on desktop
 
-> **Tech used**: Google Model Viewer, React, JavaScript, HTML, CSS
->
-> **Note**: This prototype is best viewed on desktop or laptop screens
+<br>
+
+<img src="./public/model-viewer-dimensions-banner.png" alt="Banner showing the model dimension extraction test UI." />
 
 <br>
 
 #### Project description
 
-> **TLDR**: A quick and dirty prototype of a Google Model Viewer-based 3D model dimension extractor.
+> **TLDR**: A quick and dirty prototype of a Google Model Viewer-based 3D model dimension extractor.<br>
+> **Tech used**: Google Model Viewer, React, JavaScript, HTML, CSS
 
 This project was a prototyping test explored as part of my 3D and AR/VR work with Shopify. It tested `<model-viewer>`'s `getDimensions()` method for performance viability in a project that required quickly assessing a model's dimensions to facilitate further business logic down the line.
 
@@ -59,8 +60,6 @@ UI was not a focus for this test.
 </details>
 
 <br>
-
-**[View prototype](https://dvdjrnx.github.io/model-viewer-dimensions)**
 
 [Download a .glb file for testing](https://github.com/dvdjrnx/model-viewer-dimensions/blob/master/public/hamburger-draco.glb)
 
