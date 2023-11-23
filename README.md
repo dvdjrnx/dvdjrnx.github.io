@@ -2,10 +2,10 @@
 
 Hi, I'm David Journeaux, a frontend developer and growing UX/UI designer. I've created this simple GitHub Pages site to hold a collection of minor projects I've worked on over the years.
 
-To be frank, my most recent professional development has been focused in two private endeavours:
+To be frank, my most recent professional development has been focused on two private endeavours:
 
 - Building features for Shopify as one of their software engineers
-- Creating prototypes for my own startup, The Altered.
+- Creating prototypes for my own passion project, The Altered.
 
 In light of this, I've not done much that reflects my current skillset within the public sphere. It's my hope this site will help to change that, presenting new, public projects that demonstrate my expertise and learnings in development and user experience as with time.
 
