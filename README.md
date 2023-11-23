@@ -16,7 +16,6 @@ I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
 ### [Model Dimension Extraction Test](https://dvdjrnx.github.io/model-viewer-dimensions)
 
 <details>
-
 <summary>Details<summary>
 
 This project was a prototyping test explored as part of my 3D and AR/VR work with Shopify. It tested `<model-viewer>`'s `getDimensions()` method for performance viability in a project that required quickly assessing a model's dimensions to facilitate further business logic down the line.
