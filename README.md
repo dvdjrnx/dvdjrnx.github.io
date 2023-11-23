@@ -6,7 +6,9 @@ To be frank, the past few years of my professional development have been focused
 
 I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
 
-## Small prototypes
+<details>
+
+<summary>## Small prototypes</summary>
 
 ### [Model Dimension Extraction Test](https://dvdjrnx.github.io/model-viewer-dimensions)
 
@@ -29,3 +31,5 @@ The link below will take you to a GitHub repository page where you can download 
 [Download a .glb file for testing](https://github.com/dvdjrnx/model-viewer-dimensions/blob/master/public/hamburger-draco.glb)
 
 <img src="./public/download-glb.png" alt="Image showing where to download the mentioned .glb file in the linked GitHub repository page" />
+
+</details>
