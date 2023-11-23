@@ -1,8 +1,6 @@
 # dvdjrnx.github.io
 
-<br>
-
-<img src="./public/dvdjrnx.jpg" alt="Headshot of front-end developer and growing UX/UI designer, David Journeaux" width="256" style="border-radius: 100%;" />
+<img src="./public/dvdjrnx.jpg" alt="Headshot of front-end developer and growing UX/UI designer, David Journeaux" width="128" style="border-radius: 100%;" />
 
 Hi, I'm David Journeaux, a **front-end developer** and growing **UX/UI designer**. I've created this simple GitHub Pages site to hold a collection of minor projects I've worked on over the years.
 
@@ -33,7 +31,7 @@ I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
 
 ### [Model Dimension Extraction Test](https://dvdjrnx.github.io/model-viewer-dimensions)
 
-**[View GitHub Repo](https://dvdjrnx.github.io/model-viewer-dimensions)** • **[View live prototype](https://dvdjrnx.github.io/model-viewer-dimensions)** • best viewed on desktop
+**[View GitHub Repo](https://dvdjrnx.github.io/model-viewer-dimensions)** • **[View live prototype](https://dvdjrnx.github.io/model-viewer-dimensions)** • <span style="color: #7d8590">best viewed on desktop</span>
 
 <br>
 
