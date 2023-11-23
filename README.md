@@ -1,14 +1,17 @@
 # dvdjrnx.github.io
 
-Hi, I'm David Journeaux, a frontend developer and growing UX/UI designer. I've created this simple GitHub Pages site to hold a collection of minor projects I've worked on.
+Hi, I'm David Journeaux, a frontend developer and growing UX/UI designer. I've created this simple GitHub Pages site to hold a collection of minor projects I've worked on over the years.
 
-To be frank, the past few years of my professional development have been focused on building features for Shopify as one of their software engineers. In light of that, I've not done much that reflects my current skill set within the public sphere. It's my hope this site will help to change that, presenting new projects that demonstrate my expertise in development and user experience over time.
+To be frank, my most recent professional development has been focused in two private endeavours:
+
+- Building features for Shopify as one of their software engineers
+- Creating prototypes for my own startup, The Altered.
+
+In light of this, I've not done much that reflects my current skillset within the public sphere. It's my hope this site will help to change that, presenting new, public projects that demonstrate my expertise and learnings in development and user experience as with time.
 
 I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
 
-<details>
-
-<summary>## Small prototypes</summary>
+## Small prototypes
 
 ### [Model Dimension Extraction Test](https://dvdjrnx.github.io/model-viewer-dimensions)
 
@@ -31,5 +34,3 @@ The link below will take you to a GitHub repository page where you can download 
 [Download a .glb file for testing](https://github.com/dvdjrnx/model-viewer-dimensions/blob/master/public/hamburger-draco.glb)
 
 <img src="./public/download-glb.png" alt="Image showing where to download the mentioned .glb file in the linked GitHub repository page" />
-
-</details>
