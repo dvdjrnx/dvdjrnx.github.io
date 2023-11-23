@@ -16,9 +16,13 @@ I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
 <br>
 <br>
 
+[Model Dimension Extraction Test](#model-dimension-extraction-test)
+
 ## Small prototypes
 
 <br>
+
+<img src="./public/model-viewer-dimensions-banner.png" alt="Banner showing the model dimension extraction test UI." />
 
 ### [Model Dimension Extraction Test](https://dvdjrnx.github.io/model-viewer-dimensions)
 
