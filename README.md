@@ -77,6 +77,6 @@ The link above will take you to a GitHub repository page where you can download 
 
 <br>
 
-[Back to top](#dvdjrnxgithubio)
+[Back to Table of Contents](#table-of-contents) • [Back to top](#dvdjrnxgithubio)
 
 <hr>
