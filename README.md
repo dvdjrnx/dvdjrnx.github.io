@@ -20,6 +20,7 @@ I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
 **Three.js learnings**
 
 **Small Prototypes**
+
 - [Model Dimension Extraction Test](#model-dimension-extraction-test)
 
 <br>
@@ -40,8 +41,7 @@ I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
 
 #### Project description
 
-> **TLDR**: A quick and dirty prototype of a Google Model Viewer-based 3D model dimension extractor.<br>
-> **Tech used**: Google Model Viewer, React, JavaScript, HTML, CSS
+> **TLDR**: A quick and dirty prototype of a Google Model Viewer-based 3D model dimension extractor.<br> > **Tech used**: Google Model Viewer, React, JavaScript, HTML, CSS
 
 This project was a prototyping test explored as part of my 3D and AR/VR work with Shopify. It tested `<model-viewer>`'s `getDimensions()` method for performance viability in a project that required quickly assessing a model's dimensions to facilitate further business logic down the line.
 
@@ -76,4 +76,9 @@ The link above will take you to a GitHub repository page where you can download 
 </details>
 
 <br>
+
+[Back to top](#dvdjrnxgithubio)
+
+<br>
+
 <hr>
