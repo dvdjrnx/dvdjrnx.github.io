@@ -15,6 +15,10 @@ I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
 
 ### [Model Dimension Extraction Test](https://dvdjrnx.github.io/model-viewer-dimensions)
 
+<details>
+
+<summary>Details<summary>
+
 This project was a prototyping test explored as part of my 3D and AR/VR work with Shopify. It tested `<model-viewer>`'s `getDimensions()` method for performance viability in a project that required quickly assessing a model's dimensions to facilitate further business logic down the line.
 
 The prototype mounts a `<model-viewer>` instance when a file is dropped on the UI's drop zone, and the `<model-viewer>`'s `src` attribute is set to an object URL of the model. The moment the model loads, `getDimensions()` is called and x, y, and z dimensions are displayed.
@@ -25,7 +29,7 @@ UI was not a focus for this test.
 
 <img src="./public/model-viewer-dimensions.png" alt="Screenshot of prototype showing a Marshall amp model loaded in the UI with dimensions displayed and the timing results shown in Dev Tools" />
 
-<hr />
+</details>
 
 [View prototype](https://dvdjrnx.github.io/model-viewer-dimensions)
 
