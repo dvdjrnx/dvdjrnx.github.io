@@ -23,9 +23,8 @@ I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
 ### [Model Dimension Extraction Test](https://dvdjrnx.github.io/model-viewer-dimensions)
 
 > **Tech used**: Google Model Viewer, React, JavaScript, HTML, CSS
-
-> [!NOTE]
-> This prototype is best viewed on desktop or laptop screens
+> 
+> **Note**: This prototype is best viewed on desktop or laptop screens
 
 <br>
 
