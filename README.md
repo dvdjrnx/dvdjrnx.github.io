@@ -37,7 +37,7 @@ A quick and dirty prototype of a Google Model Viewer-based 3D model dimension ex
 
 <br>
 
-This project was a prototyping test explored as part of my 3D and AR/VR work with Shopify. It tested `<model-viewer>`'s `getDimensions()` method for performance viability in a project that required quickly assessing a model's dimensions to facilitate further business logic down the line.
+This project was a prototyping test explored as part of my 3D and AR/VR work with Shopify. It tested model-viewer's `getDimensions()` method for performance viability in a project that required quickly assessing a model's dimensions to facilitate further business logic down the line.
 
 The prototype mounts a `<model-viewer>` instance when a file is dropped on the UI's drop zone, and the `<model-viewer>`'s `src` attribute is set to an object URL of the model. The moment the model loads, `getDimensions()` is called and x, y, and z dimensions are displayed.
 
