@@ -2,6 +2,8 @@
 
 <br>
 
+<img src="./public/dvdjrnx.jpg" alt="Headshot of front-end developer and growing UX/UI designer, David Journeaux" width="256" style="border-radius: 100%;" />
+
 Hi, I'm David Journeaux, a **front-end developer** and growing **UX/UI designer**. I've created this simple GitHub Pages site to hold a collection of minor projects I've worked on over the years.
 
 To be frank, my most recent professional development and growth has occurred within two private endeavours:
