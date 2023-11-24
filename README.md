@@ -24,7 +24,11 @@ I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
 
 <summary>Three.js learnings</summary>
 
-- <a href="#marble-race">Marble Race</a>
+<ul>
+  <li>
+    <a href="#marble-race">Marble Race</a>
+  </li>
+</ul>
 
 </details>
 
@@ -32,7 +36,11 @@ I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
 
 <summary>Small prototypes</summary>
 
-- <a href="#model-dimension-extraction-test">Model Dimension Extraction Test</a>
+<ul>
+  <li>
+    <a href="#model-dimension-extraction-test">Model Dimension Extraction Test</a>
+  </li>
+</ul>
 
 </details>
 
