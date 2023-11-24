@@ -107,7 +107,7 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 
 <br>
 
-This project explores particle systems and animation in 3D and handling hundreds of thousands of particle instances in the browser. It was created with Three.js and React Three Fiber.
+This project explores particle systems and animation in 3D. It also explores how to handle hundreds of thousands of particle instances in the browser. It was created with Three.js and React Three Fiber.
 
 It features a whirling galaxy with distinct branches. The branches become more homogenous as the animation plays out. In the upper-right corner is a GUI that allows users to dynamically adjust multiple parameters for the scene, including colors, size, branches, and particle count.
 
