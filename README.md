@@ -433,6 +433,8 @@ UI was not a focus for this test.
 
 The link above will take you to a GitHub repository page where you can download a .glb file if you don't have your own for testing. The image below shows where you can find the download button on the linked repository page.
 
+<br>
+
 <img src="/public/download-glb.png" alt="Image showing where to download the mentioned .glb file in the linked GitHub repository page.">
 
 </details>
