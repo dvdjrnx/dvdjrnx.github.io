@@ -68,6 +68,7 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 
 <summary>Project image</summary>
 
+<br>
 
 <img src="/public/marble-race.jpg" alt="A purple marble sits at the beginning of a race track filled with moving red obstacles. The words Marble Race appear beside the marble. There's an unstarted timer that appears above the marble and a simplistic display of arrow or WASD keys and a space bar below.">
 
@@ -110,6 +111,8 @@ UI was not a focus for this test.
 <details>
 
 <summary>Project image</summary>
+
+<br>
 
 <img src="/public/model-viewer-dimensions.png" alt="Screenshot of prototype showing a Marshall amp model loaded in the UI with dimensions displayed and the timing results shown in Dev Tools.">
 
