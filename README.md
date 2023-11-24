@@ -95,6 +95,8 @@ When you first move, a timer begins. Upon reaching the end of the track, the tim
 
 The work was undertaken as one of many steps in acquiring [my Three.js certification](https://threejs-journey.com/certificate/view/24741) through [Three.js Journey](https://threejs-journey.com/).
 
+<br>
+
 <details>
 
 <summary>Project image</summary>
@@ -136,6 +138,8 @@ This project explores particle systems and animation in 3D and handling hundreds
 It features a whirling galaxy with distinct branches. The branches become more homogenous as the animation plays out. In the upper-right corner is a GUI that allows users to dynamically adjust multiple parameters for the scene, including colors, size, branches, and particle count.
 
 The work was undertaken as one of many steps in acquiring [my Three.js certification](https://threejs-journey.com/certificate/view/24741) through [Three.js Journey](https://threejs-journey.com/).
+
+<br>
 
 <details>
 
@@ -179,6 +183,8 @@ It features a mock portfolio front page with floating 3D elements. The 3D elemen
 
 The work was undertaken as one of many steps in acquiring [my Three.js certification](https://threejs-journey.com/certificate/view/24741) through [Three.js Journey](https://threejs-journey.com/).
 
+<br>
+
 <details>
 
 <summary>Project image</summary>
@@ -221,6 +227,8 @@ The project also displays a performance monitor for profiling different performa
 
 The work was undertaken as one of many steps in acquiring [my Three.js certification](https://threejs-journey.com/certificate/view/24741) through [Three.js Journey](https://threejs-journey.com/).
 
+<br>
+
 <details>
 
 <summary>Project image</summary>
@@ -262,6 +270,8 @@ This project explores writing custom animated shaders, building a scene in blend
 The shader work is highlighted in the glowing and shifting patterns within the portal's stone circle. The scene features a low-poly 3D scene of a lantern-lit, fenced pathway leading through rocks and tree stumps to a mysterious stone portal. An axe rests in one of the stumps, and fireflies float against a black sky.
 
 The work was undertaken as one of many steps in acquiring [my Three.js certification](https://threejs-journey.com/certificate/view/24741) through [Three.js Journey](https://threejs-journey.com/).
+
+<br>
 
 <details>
 
@@ -307,6 +317,8 @@ The project also displays a performance monitor for profiling different performa
 
 The work was undertaken as one of many steps in acquiring [my Three.js certification](https://threejs-journey.com/certificate/view/24741) through [Three.js Journey](https://threejs-journey.com/).
 
+<br>
+
 <details>
 
 <summary>Project image</summary>
@@ -348,6 +360,8 @@ This project explores animating WebGL shaders and patterns. It was created with 
 It features a features a low-poly sea with rolling waves. In the upper-right corner is a GUI that allows users to dynamically adjust multiple parameters for the scene, including wave elevation, frequency, and speed, small wave iterations, and sea colors.
 
 The work was undertaken as one of many steps in acquiring [my Three.js certification](https://threejs-journey.com/certificate/view/24741) through [Three.js Journey](https://threejs-journey.com/).
+
+<br>
 
 <details>
 
@@ -398,6 +412,8 @@ The prototype mounts a `<model-viewer>` instance when a file is dropped on the U
 Included in the code is a call to `console.time('getDimensions')` that runs on file drop, and a `console.endTime('getDimensions')` call that runs once dimensions are set in state. The results can be viewed in the console tab of Dev Tools and used to help gauge the performance viability of using `<model-viewer>` to get dimensions from models of various file sizes.
 
 UI was not a focus for this test.
+
+<br>
 
 <details>
 
