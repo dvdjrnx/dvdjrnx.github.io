@@ -261,19 +261,19 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 
 <br>
 
-<img src="/public/post-processing-banner.jpg" alt="Banner showing the Marble Race starting line.">
+<img src="/public/post-processing-banner.jpg" alt="A digital banner showcasing post-processing effects with a spherical ball and a cube distorted and set against a two-tone green backdrop that creates a surreal, abstract landscape.">
 
 <br>
 
 #### Project description
 
-> **TLDR**: A 3D marble race game made with Three.js and React Three Fiber.<br>**Tech used**: `React` • `Three.js` • `React Three Fiber` • `React Three Rapier` • `react-postprocessing` • `Drei` • `Zustand` • `R3F-Perf` • `JavaScript` • `HTML` • `CSS`
+> **TLDR**: A simple 3D scene with a user-adjustable post-processing "drunk" effect. Created with Three.js and React Three Fiber.<br>**Tech used**: `React` • `Three.js` • `React Three Fiber` • `react-postprocessing` • `Drei` • `Leva` • `R3F-Perf` • `JavaScript` • `HTML` • `CSS`
 
-This project brings together many concepts of working with Three.js and React Three Fiber to create an in-browser game controlled by a keyboard.
+This project explores post-processing in a 3D scene, allowing users to dynamically adjust the intensity of an animated, drunken wave effect applied over top of a simple scene. It was created with Three.js and React Three Fiber.
 
-It features a marble that can be directed via arrow and WASD keys. It can also jump with the space bar. The goal is to move as quickly as possible down a track with multiple, randomized obstacles.
+It features a ball and cube on a green plane. In the upper-right corner is a GUI that allows users to adjust two parameters that affect the "drunk" view distortion: frequency and amplitude.
 
-When you first move, a timer begins. Upon reaching the end of the track, the timer stops and shows you your time. You can then restart to beat your previous record.
+The project also displays a performance monitor for profiling different performance indicators, such as FPS, memory usage, and GPU load.
 
 The work was undertaken as one of many steps in acquiring [my Three.js certification](https://threejs-journey.com/certificate/view/24741) through [Three.js Journey](https://threejs-journey.com/).
 
@@ -283,7 +283,7 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 
 <br>
 
-<img src="/public/post-processing.jpg" alt="A purple marble sits at the beginning of a race track filled with moving red obstacles. The words Marble Race appear beside the marble. There's an unstarted timer that appears above the marble and a simplistic display of arrow or WASD keys and a space bar below.">
+<img src="/public/post-processing.jpg" alt="A 3D rendering of a ball and a cube under the influence of a 'Drunk Effect' post-processing filter, evidenced by on-screen sliders for frequency and amplitude adjustments. The ball and cube are resting on a flat surface with a light green background. The ball appears distorted into an egg shape, and the cube has a slightly skewed form, demonstrating the effects of the filter on simple geometric shapes.">
 
 </details>
 
