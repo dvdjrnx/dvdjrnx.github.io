@@ -81,9 +81,11 @@ I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
 
 #### Project description
 
-> **TLDR**: A 3D marble race game made with Three.js and React Three Fiber.
+> **TLDR**:<br>A 3D marble race game made with Three.js and React Three Fiber.
 >
-> **Tech used**: `React` • `Three.js` • `React Three Fiber` • `React Three Rapier` • `react-postprocessing` • `Drei` • `Zustand` • `R3F-Perf` • `JavaScript` • `HTML` • `CSS`
+> **Tech used**:<br>`React` • `Three.js` • `React Three Fiber` • `React Three Rapier` • `react-postprocessing` • `Drei` • `Zustand` • `R3F-Perf` • `JavaScript` • `HTML` • `CSS`
+
+<br>
 
 This project brings together many concepts of working with Three.js and React Three Fiber to create an in-browser game controlled by a keyboard.
 
@@ -123,9 +125,11 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 
 #### Project description
 
-> **TLDR**: A controllable, animated galaxy presented in 3D with hundreds of thousands of particles. Created with Three.js.
+> **TLDR**:<br>A controllable, animated galaxy presented in 3D with hundreds of thousands of particles. Created with Three.js.
 >
-> **Tech used**: `Three.js` • `lil-gui` • `JavaScript` • `HTML` • `CSS`
+> **Tech used**:<br>`Three.js` • `lil-gui` • `JavaScript` • `HTML` • `CSS`
+
+<br>
 
 This project explores particle systems and animation in 3D and handling hundreds of thousands of particle instances in the browser. It was created with Three.js and React Three Fiber.
 
@@ -163,9 +167,11 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 
 #### Project description
 
-> **TLDR**: A simple mock-portfolio front page with 3D animation triggered by scrolling. Made with Three.js.
+> **TLDR**:<br>A simple mock-portfolio front page with 3D animation triggered by scrolling. Made with Three.js.
 >
-> **Tech used**: `Three.js` • `lil-gui` • `JavaScript` • `HTML` • `CSS`
+> **Tech used**:<br>`Three.js` • `lil-gui` • `JavaScript` • `HTML` • `CSS`
+
+<br>
 
 This project explores scroll-based animation with 3D elements. It was created with Three.js.
 
@@ -203,9 +209,11 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 
 #### Project description
 
-> **TLDR**: A chaotic 3D scene implementing physics using Three.js and React Three Fiber.
+> **TLDR**:<br>A chaotic 3D scene implementing physics using Three.js and React Three Fiber.
 >
-> **Tech used**: `React` • `Three.js` • `React Three Fiber` • `React Three Rapier` • `R3F-Perf` • `Drei` • `JavaScript` • `HTML` • `CSS`
+> **Tech used**:<br>`React` • `Three.js` • `React Three Fiber` • `React Three Rapier` • `R3F-Perf` • `Drei` • `JavaScript` • `HTML` • `CSS`
+
+<br>
 
 This project explores applying physics to a 3D scene created with Three.js and React Three Fiber. At its core, it features a spinning, rectangular block. Numerous models fall into the scene under the effects of gravity and are bounced around by the block, reacting as would be reasonably expected in the real world for their individual shapes.
 
@@ -243,9 +251,11 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 
 #### Project description
 
-> **TLDR**: A low-poly 3D portal scene featuring custom animated shaders. Modeled in Blender, shaded and coded in Three.js and React Three Fiber.
+> **TLDR**:<br>A low-poly 3D portal scene featuring custom animated shaders. Modeled in Blender, shaded and coded in Three.js and React Three Fiber.
 >
-> **Tech used**: `React` • `Three.js` • `React Three Fiber` • `WebGL` • `WebGL Shaders` • `Drei` • `JavaScript` • `HTML` • `CSS`
+> **Tech used**:<br>`React` • `Three.js` • `React Three Fiber` • `WebGL` • `WebGL Shaders` • `Drei` • `JavaScript` • `HTML` • `CSS`
+
+<br>
 
 This project explores writing custom animated shaders, building a scene in blender, baking lighting, and loading the scene in Three.js. The project also makes use of React Three Fiber.
 
@@ -283,9 +293,11 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 
 #### Project description
 
-> **TLDR**: A simple 3D scene with a user-adjustable post-processing "drunk" effect. Created with Three.js and React Three Fiber.
+> **TLDR**:<br>A simple 3D scene with a user-adjustable post-processing "drunk" effect. Created with Three.js and React Three Fiber.
 >
-> **Tech used**: `React` • `Three.js` • `React Three Fiber` • `react-postprocessing` • `Drei` • `Leva` • `R3F-Perf` • `JavaScript` • `HTML` • `CSS`
+> **Tech used**:<br>`React` • `Three.js` • `React Three Fiber` • `react-postprocessing` • `Drei` • `Leva` • `R3F-Perf` • `JavaScript` • `HTML` • `CSS`
+
+<br>
 
 This project explores post-processing in a 3D scene, allowing users to dynamically adjust the intensity of an animated, drunken wave effect applied over top of a simple scene. It was created with Three.js and React Three Fiber.
 
@@ -325,9 +337,11 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 
 #### Project description
 
-> **TLDR**: A low poly sea with rolling waves and dynamic user controls. Made with Three.js.
+> **TLDR**:<br>A low poly sea with rolling waves and dynamic user controls. Made with Three.js.
 >
-> **Tech used**: `Three.js` • `WebGL` • `WebGL Shaders` • `lil-gui` • `JavaScript` • `HTML` • `CSS`
+> **Tech used**:<br>`Three.js` • `WebGL` • `WebGL Shaders` • `lil-gui` • `JavaScript` • `HTML` • `CSS`
+
+<br>
 
 This project explores animating WebGL shaders and patterns. It was created with Three.js.
 
@@ -371,9 +385,11 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 
 #### Project description
 
-> **TLDR**: A quick and dirty prototype of a Google Model Viewer-based 3D model dimension extractor.
+> **TLDR**:<br>A quick and dirty prototype of a Google Model Viewer-based 3D model dimension extractor.
 >
-> **Tech used**: `Google Model Viewer` • `React` • `JavaScript` • `HTML` • `CSS`
+> **Tech used**:<br>`Google Model Viewer` • `React` • `JavaScript` • `HTML` • `CSS`
+
+<br>
 
 This project was a prototyping test explored as part of my 3D and AR/VR work with Shopify. It tested `<model-viewer>`'s `getDimensions()` method for performance viability in a project that required quickly assessing a model's dimensions to facilitate further business logic down the line.
 
