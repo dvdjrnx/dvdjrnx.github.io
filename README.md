@@ -38,6 +38,9 @@ I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
   <li>
     <a href="#3d-physics">3D Physics</a>
   </li>
+  <li>
+    <a href="#portal-scene">Portal Scene</a>
+  </li>
 </ul>
 
 </details>
@@ -203,6 +206,44 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 <br>
 
 <img src="/public/3d-physics.jpg" alt="Multiple peach cubes, a hamburger, and a yellow ball fall to a green floor with a spinning red rectangular block.">
+
+</details>
+
+<br>
+
+[Back to Table of Contents](#table-of-contents) • [Back to top](#top)
+
+<hr>
+
+<br>
+
+### [Portal Scene](https://dvdjrnx.github.io/portal-scene)
+
+**[View GitHub repo](https://github.com/dvdjrnx/portal-scene)** • **[View live prototype](https://dvdjrnx.github.io/portal-scene)** • <span style="color: #7d8590">Requires keyboard to play</span>
+
+<br>
+
+<img src="/public/portal-scene-banner.jpg" alt="A wide digital banner depicting a stylized portal with swirling black and white patterns in the center, flanked by wooden structures with lanterns, against a starry night sky backdrop, suggesting a mystical or fantasy setting.">
+
+<br>
+
+#### Project description
+
+> **TLDR**: A low-poly 3D portal scene featuring custom animated shaders. Modeled in Blender, shaded and coded in Three.js and React Three Fiber.<br>**Tech used**: `React` • `Three.js` • `React Three Fiber` • `WebGL` • `Drei` • `JavaScript` • `HTML` • `CSS`
+
+This project explores writing custom animated shaders, building a scene in blender, baking lighting, and loading the scene in Three.js. The project also makes use of React Three Fiber.
+
+The shader work is highlighted in the glowing and shifting patterns within the portal's stone circle. The scene features a low-poly 3D scene of a lantern-lit, fenced pathway leading through rocks and tree stumps to a mysterious stone portal. An axe rests in one of the stumps, and fireflies float against a black sky.
+
+The work was undertaken as one of many steps in acquiring [my Three.js certification](https://threejs-journey.com/certificate/view/24741) through [Three.js Journey](https://threejs-journey.com/).
+
+<details>
+
+<summary>Project image</summary>
+
+<br>
+
+<img src="/public/portal-scene.jpg" alt="A 3D image depicting a stylized portal with swirling black and white patterns in the center, flanked by wooden structures with lanterns, against a starry night sky backdrop, suggesting a mystical or fantasy setting.">
 
 </details>
 
