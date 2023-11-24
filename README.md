@@ -174,6 +174,8 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 
 <hr>
 
+<br>
+
 ### [3D Physics](https://dvdjrnx.github.io/3d-physics)
 
 **[View GitHub repo](https://github.com/dvdjrnx/3d-physics)** • **[View live prototype](https://dvdjrnx.github.io/3d-physics)**
