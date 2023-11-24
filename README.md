@@ -45,7 +45,7 @@ I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
 
 <br>
 
-![Banner showing the Marble Race starting line.](/public/marble-race-banner.jpg)
+<img alt="Banner showing the Marble Race starting line." src="/public/marble-race-banner.jpg">
 
 <br>
 
@@ -65,7 +65,7 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 
 <summary>Project image</summary>
 
-![A purple marble sits at the beginning of a race track filled with moving red obstacles. The words "Marble Race" appear beside the marble. There's an unstarted timer that appears above the marble and a simplistic display of arrow or WASD keys and a space bar below.](/public/marble-race.jpg)
+<img alt="A purple marble sits at the beginning of a race track filled with moving red obstacles. The words Marble Race appear beside the marble. There's an unstarted timer that appears above the marble and a simplistic display of arrow or WASD keys and a space bar below." src="/public/marble-race.jpg">
 
 </details>
 
@@ -87,7 +87,7 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 
 <br>
 
-![Banner showing the model dimension extraction test UI.](public/model-viewer-dimensions-banner.png)
+<img alt="Banner showing the model dimension extraction test UI." src="/public/model-viewer-dimensions-banner.png">
 
 <br>
 
@@ -107,7 +107,7 @@ UI was not a focus for this test.
 
 <summary>Project image</summary>
 
-![Screenshot of prototype showing a Marshall amp model loaded in the UI with dimensions displayed and the timing results shown in Dev Tools.](/public/model-viewer-dimensions.png)
+<img alt="Screenshot of prototype showing a Marshall amp model loaded in the UI with dimensions displayed and the timing results shown in Dev Tools." src="/public/model-viewer-dimensions.png">
 
 </details>
 
@@ -123,7 +123,7 @@ UI was not a focus for this test.
 
 The link above will take you to a GitHub repository page where you can download a .glb file if you don't have your own for testing. The image below shows where you can find the download button on the linked repository page.
 
-![Image showing where to download the mentioned .glb file in the linked GitHub repository page.](/public/download-glb.png)
+<img alt="Image showing where to download the mentioned .glb file in the linked GitHub repository page." src="/public/download-glb.png">
 
 </details>
 
