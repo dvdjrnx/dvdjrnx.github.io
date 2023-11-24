@@ -219,7 +219,7 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 
 ### [Portal Scene](https://dvdjrnx.github.io/portal-scene)
 
-**[View GitHub repo](https://github.com/dvdjrnx/portal-scene)** • **[View live prototype](https://dvdjrnx.github.io/portal-scene)** • <span style="color: #7d8590">Requires keyboard to play</span>
+**[View GitHub repo](https://github.com/dvdjrnx/portal-scene)** • **[View live prototype](https://dvdjrnx.github.io/portal-scene)**
 
 <br>
 
