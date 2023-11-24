@@ -283,7 +283,7 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 
 <br>
 
-This project explores post-processing in a 3D scene, allowing users to dynamically adjust the intensity of an animated, drunken wave effect applied over top of a simple scene. It was created with Three.js and React Three Fiber.
+This project explores post-processing in 3D, allowing users to dynamically adjust the intensity of an animated, drunken wave effect applied over top of a simple scene. It was created with Three.js and React Three Fiber.
 
 It features a ball and cube on a green plane. In the upper-right corner is a GUI that allows users to adjust two parameters that affect the "drunk" view distortion: frequency and amplitude.
 
