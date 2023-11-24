@@ -22,9 +22,17 @@ I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
 
 <details>
 
+<summary>Three.js learnings</summary>
+
+- <a href="#marble-race">Marble Race</a>
+
+</details>
+
+<details>
+
 <summary>Small prototypes</summary>
 
-- [Model Dimension Extraction Test](#model-dimension-extraction-test)
+- <a href="#model-dimension-extraction-test">Model Dimension Extraction Test</a>
 
 </details>
 
