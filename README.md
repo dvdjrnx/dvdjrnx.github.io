@@ -100,7 +100,7 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 
 <br>
 
-<img src="/public/model-viewer-dimensions-banner.png" alt="Banner showing the model dimension extraction test UI.">
+<img src="/public/model-viewer-dimensions-banner.jpg" alt="Banner showing the model dimension extraction test UI.">
 
 <br>
 
@@ -122,7 +122,7 @@ UI was not a focus for this test.
 
 <br>
 
-<img src="/public/model-viewer-dimensions.png" alt="Screenshot of prototype showing a Marshall amp model loaded in the UI with dimensions displayed and the timing results shown in Dev Tools.">
+<img src="/public/model-viewer-dimensions.jpg" alt="Screenshot of prototype showing a Marshall amp model loaded in the UI with dimensions displayed and the timing results shown in Dev Tools.">
 
 </details>
 
