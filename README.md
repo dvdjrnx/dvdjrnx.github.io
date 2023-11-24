@@ -1,6 +1,6 @@
 <a id="top"></a>
 
-<img src="/public/dvdjrnx.jpg" alt="Headshot of front-end developer and growing UX/UI designer, David Journeaux" width="240" height="240" style="border-radius: 100%;">
+<img src="/public/dvdjrnx.jpg" alt="Headshot of front-end developer and growing UX/UI designer, David Journeaux" width="120" height="120" style="border-radius: 100%;">
 
 # dvdjrnx.github.io
 
@@ -69,7 +69,7 @@ I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
 
 ### [Marble Race](https://dvdjrnx.github.io/marble-race)
 
-**[View GitHub repo](https://github.com/dvdjrnx/marble-race)** • **[View live demo](https://dvdjrnx.github.io/marble-race)** • <span style="color: #7d8590">Requires keyboard to play</span>
+**[View GitHub repo](https://github.com/dvdjrnx/marble-race)** • **[View live demo](https://dvdjrnx.github.io/marble-race)** • <span style="color: #7d8590">Requires keyboard to play • Best viewed in landscape orientation</span>
 
 <br>
 
