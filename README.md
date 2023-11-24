@@ -1,3 +1,4 @@
+<a id="top"></a>
 <img src="/public/dvdjrnx.jpg" alt="Headshot of front-end developer and growing UX/UI designer, David Journeaux" width="240" style="border-radius: 100%;" />
 
 # dvdjrnx.github.io
@@ -71,7 +72,7 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 
 <br>
 
-[Back to Table of Contents](#table-of-contents) • [Back to top](#dvdjrnxgithubio)
+[Back to Table of Contents](#table-of-contents) • [Back to top](#top)
 
 <hr>
 
@@ -129,6 +130,6 @@ The link above will take you to a GitHub repository page where you can download 
 
 <br>
 
-[Back to Table of Contents](#table-of-contents) • [Back to top](#dvdjrnxgithubio)
+[Back to Table of Contents](#table-of-contents) • [Back to top](#top)
 
 <hr>
