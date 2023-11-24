@@ -172,6 +172,8 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 
 <br>
 
+<br>
+
 ## Small prototypes
 
 <br>
