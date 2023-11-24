@@ -65,7 +65,7 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 
 <summary>Project image</summary>
 
-![A purple marble sits at the beginning of a race track filled with moving red obstacles. The words "Marble Race" appear beside the marble. There's an unstarted timer that appears above the marble and a simplistic display of arrow or WASD keys and a space bar below.](./public/model-viewer-dimensions.png)
+![A purple marble sits at the beginning of a race track filled with moving red obstacles. The words "Marble Race" appear beside the marble. There's an unstarted timer that appears above the marble and a simplistic display of arrow or WASD keys and a space bar below.](./public/marble-race.png)
 
 </details>
 
