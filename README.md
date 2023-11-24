@@ -99,7 +99,7 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 
 <br>
 
-<img src="/public/animated-galaxy-banner.jpg" alt="Banner showing the Marble Race starting line.">
+<img src="/public/animated-galaxy-banner.jpg" alt="Banner showing an orange and red spiral galaxy.">
 
 <br>
 
