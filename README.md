@@ -51,6 +51,8 @@ I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
 
 </details>
 
+<br>
+
 <details>
 
 <summary>Small prototypes</summary>
@@ -66,8 +68,6 @@ I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
 <br>
 
 ## Three.js learnings
-
-<br>
 
 ### [Marble Race](https://dvdjrnx.github.io/marble-race)
 
@@ -384,8 +384,6 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 <br>
 
 ## Small prototypes
-
-<br>
 
 ### [Model Dimension Extraction Test](https://dvdjrnx.github.io/model-viewer-dimensions)
 
