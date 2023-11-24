@@ -31,6 +31,9 @@ I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
   <li>
     <a href="#animated-galaxy">Animated Galaxy</a>
   </li>
+  <li>
+    <a href="#scroll-based-animation">Scroll-based Animation</a>
+  </li>
 </ul>
 
 </details>
@@ -95,7 +98,7 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 
 ### [Animated Galaxy](https://dvdjrnx.github.io/animated-galaxy)
 
-**[View GitHub repo](https://github.com/dvdjrnx/animated-galaxy)** • **[View live prototype](https://dvdjrnx.github.io/animated-galaxy)** • <span style="color: #7d8590">Requires keyboard to play</span>
+**[View GitHub repo](https://github.com/dvdjrnx/animated-galaxy)** • **[View live prototype](https://dvdjrnx.github.io/animated-galaxy)**
 
 <br>
 
@@ -120,6 +123,44 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 <br>
 
 <img src="/public/animated-galaxy.jpg" alt="A whirling orange and yellow galaxy appears against the black backdrop of space.">
+
+</details>
+
+<br>
+
+[Back to Table of Contents](#table-of-contents) • [Back to top](#top)
+
+<hr>
+
+<br>
+
+### [Scroll-based animation](https://dvdjrnx.github.io/scroll-based-animation)
+
+**[View GitHub repo](https://github.com/dvdjrnx/scroll-based-animation)** • **[View live prototype](https://dvdjrnx.github.io/scroll-based-animation)** • <span style="color: #7d8590">Best viewed in landscape orientation</span>
+
+<br>
+
+<img src="/public/scroll-based-animation-banner.jpg" alt="Banner showing a torus floating beside the words Contact Me.">
+
+<br>
+
+#### Project description
+
+> **TLDR**: A simple mock-portfolio front page with 3D animation triggered by scrolling. Made with Three.js.<br>**Tech used**: Three.js, lil-gui, JavaScript, HTML, CSS
+
+This project explores scroll-based animation with 3D elements. It was created with Three.js.
+
+It features a mock portfolio front page with floating 3D elements. The 3D elements will spin quickly in response to entering the viewport, and their position will adjust based on your mouse movement. In the upper-right corner is a GUI that allows users to dynamically adjust the color of the 3D elements.
+
+The work was undertaken as one of many steps in acquiring [my Three.js certification](https://threejs-journey.com/certificate/view/24741) through [Three.js Journey](https://threejs-journey.com/).
+
+<details>
+
+<summary>Project image</summary>
+
+<br>
+
+<img src="/public/scroll-based-animation.jpg" alt="The words My Portfolio sit against a starscape with a green donut shape floating off to the side.">
 
 </details>
 
