@@ -17,21 +17,13 @@ I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
 
 ## Table of Contents
 
-<details>
+**Three.js learnings**
 
-<summary>Three.js learnings</summary>
+- [Marble Race](#marble-race)
 
-[Marble Race](#marble-race)
+**Small prototypes**
 
-</details>
-
-<details>
-
-<summary>Small prototypes</summary>
-
-[Model Dimension Extraction Test](#model-dimension-extraction-test)
-
-</details>
+- [Model Dimension Extraction Test](#model-dimension-extraction-test)
 
 <br>
 
