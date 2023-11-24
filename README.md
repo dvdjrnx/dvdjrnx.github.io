@@ -21,51 +21,25 @@ I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
 
 ## Table of Contents
 
-<details>
+[Skip to projects](#projects)
 
-<summary>Three.js learnings</summary>
+### Three.js learnings
 
-<ul>
-  <li>
-    <a href="#marble-race">Marble Race</a>
-  </li>
-  <li>
-    <a href="#animated-galaxy">Animated Galaxy</a>
-  </li>
-  <li>
-    <a href="#scroll-based-animation">Scroll-based Animation</a>
-  </li>
-  <li>
-    <a href="#3d-physics">3D Physics</a>
-  </li>
-  <li>
-    <a href="#portal-scene">Portal Scene</a>
-  </li>
-  <li>
-    <a href="#post-processing">Post-processing</a>
-  </li>
-  <li>
-    <a href="#raging-sea">Raging Sea</a>
-  </li>
-</ul>
+- [Marble Race](#marble-race)
+- [Animated Galaxy](#animated-galaxy)
+- [Scroll-based Animation](#scroll-based-animation)
+- [3D Physics](#3d-physics)
+- [Portal Scene](#portal-scene)
+- [Post-processing](#post-processing)
+- [Raging Sea](#raging-sea)
 
-</details>
+### Small prototypes
+
+- [Model Dimension Extraction Test](#model-dimension-extraction-test)
 
 <br>
 
-<details>
-
-<summary>Small prototypes</summary>
-
-<ul>
-  <li>
-    <a href="#model-dimension-extraction-test">Model Dimension Extraction Test</a>
-  </li>
-</ul>
-
-</details>
-
-<br>
+<a id="projects"></a>
 
 ## Three.js learnings
 
