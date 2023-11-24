@@ -32,8 +32,6 @@ I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
 
 </details>
 
-<br>
-
 <details>
 
 <summary>Small prototypes</summary>
