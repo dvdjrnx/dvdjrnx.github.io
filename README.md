@@ -17,11 +17,63 @@ I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
 
 ## Table of Contents
 
-**Three.js learnings**
+<details>
 
-**Small Prototypes**
+<summary>Three.js learnings</summary>
+
+- [Marble Race](#marble-race)
+
+</details>
+
+<details>
+
+<summary>Small prototypes</summary>
 
 - [Model Dimension Extraction Test](#model-dimension-extraction-test)
+
+</details>
+
+<br>
+
+## Three.js learnings
+
+<br>
+
+### [Marble Race](https://dvdjrnx.github.io/marble-race)
+
+**[View GitHub Repo](https://github.com/dvdjrnx/marble-race)** • **[View live prototype](https://dvdjrnx.github.io/marble-race)** • <span style="color: #7d8590">Requires keyboard to play</span>
+
+<br>
+
+![Banner showing the Marble Race starting line.](./public/marble-race-banner.png)
+
+<br>
+
+#### Project description
+
+> **TLDR**: A 3D marble race game made with Three.js and React Three Fiber.<br>**Tech used**: React, Three.js, React Three Fiber, Drei, JavaScript, HTML, CSS
+
+This project brings together many concepts of working with Three.js and React Three Fiber to create an in-browser game controlled by a keyboard.
+
+It features a marble that can be directed via arrow and WASD keys. It can also jump with the space bar. The goal is to move as quickly as possible down a track with multiple, randomized obstacles.
+
+When you first move, a timer begins. Upon reaching the end of the track, the timer stops and shows you your time. You can then restart to beat your previous record.
+
+The work was undertaken as one of many steps in acquiring [my Three.js certification](https://threejs-journey.com/certificate/view/24741) through [Three.js Journey](https://threejs-journey.com/).
+
+<details>
+
+<summary>Project image</summary>
+
+![A purple marble sits at the beginning of a race track filled with moving red obstacles. The words "Marble Race" appear beside the marble. There's an unstarted timer that appears above the marble and a simplistic display of arrow or WASD keys and a space bar below.](./public/model-viewer-dimensions.png)
+
+</details>
+
+<br>
+
+[Back to Table of Contents](#table-of-contents) • [Back to top](#dvdjrnxgithubio)
+
+<hr>
 
 <br>
 
@@ -31,11 +83,11 @@ I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
 
 ### [Model Dimension Extraction Test](https://dvdjrnx.github.io/model-viewer-dimensions)
 
-**[View GitHub Repo](https://dvdjrnx.github.io/model-viewer-dimensions)** • **[View live prototype](https://dvdjrnx.github.io/model-viewer-dimensions)** • <span style="color: #7d8590">Best viewed on desktop</span>
+**[View GitHub Repo](https://github.com/dvdjrnx/model-viewer-dimensions)** • **[View live prototype](https://dvdjrnx.github.io/model-viewer-dimensions)** • <span style="color: #7d8590">Best viewed on desktop</span>
 
 <br>
 
-<img src="./public/model-viewer-dimensions-banner.png" alt="Banner showing the model dimension extraction test UI." />
+![Banner showing the model dimension extraction test UI.](./public/model-viewer-dimensions-banner.png)
 
 <br>
 
@@ -55,7 +107,7 @@ UI was not a focus for this test.
 
 <summary>Project image</summary>
 
-<img src="./public/model-viewer-dimensions.png" alt="Screenshot of prototype showing a Marshall amp model loaded in the UI with dimensions displayed and the timing results shown in Dev Tools" />
+![Screenshot of prototype showing a Marshall amp model loaded in the UI with dimensions displayed and the timing results shown in Dev Tools.](./public/model-viewer-dimensions.png)
 
 </details>
 
@@ -71,7 +123,7 @@ UI was not a focus for this test.
 
 The link above will take you to a GitHub repository page where you can download a .glb file if you don't have your own for testing. The image below shows where you can find the download button on the linked repository page.
 
-<img src="./public/download-glb.png" alt="Image showing where to download the mentioned .glb file in the linked GitHub repository page" />
+![Image showing where to download the mentioned .glb file in the linked GitHub repository page.](./public/download-glb.png)
 
 </details>
 
