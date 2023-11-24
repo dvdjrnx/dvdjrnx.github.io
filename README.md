@@ -21,7 +21,7 @@ I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
 
 <summary>Three.js learnings</summary>
 
-- [Marble Race](#marble-race)
+[Marble Race](#marble-race)
 
 </details>
 
@@ -29,7 +29,7 @@ I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
 
 <summary>Small prototypes</summary>
 
-- [Model Dimension Extraction Test](#model-dimension-extraction-test)
+[Model Dimension Extraction Test](#model-dimension-extraction-test)
 
 </details>
 
