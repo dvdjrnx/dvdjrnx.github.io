@@ -22,7 +22,7 @@ I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
 
 <details>
 
-<summary>Three.js learnings</summary>
+<summary>**Three.js learnings**</summary>
 
 <ul>
   <li>
@@ -34,7 +34,7 @@ I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
 
 <details>
 
-<summary>Small prototypes</summary>
+<summary>**Small prototypes**</summary>
 
 <ul>
   <li>
