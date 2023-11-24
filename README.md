@@ -28,6 +28,9 @@ I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
   <li>
     <a href="#marble-race">Marble Race</a>
   </li>
+  <li>
+    <a href="#animated-galaxy">Animated Galaxy</a>
+  </li>
 </ul>
 
 </details>
@@ -79,6 +82,44 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 <br>
 
 <img src="/public/marble-race.jpg" alt="A purple marble sits at the beginning of a race track filled with moving red obstacles. The words Marble Race appear beside the marble. There's an unstarted timer that appears above the marble and a simplistic display of arrow or WASD keys and a space bar below.">
+
+</details>
+
+<br>
+
+[Back to Table of Contents](#table-of-contents) • [Back to top](#top)
+
+<hr>
+
+<br>
+
+### [Animated Galaxy](https://dvdjrnx.github.io/animated-galaxy)
+
+**[View GitHub repo](https://github.com/dvdjrnx/animated-galaxy)** • **[View live prototype](https://dvdjrnx.github.io/animated-galaxy)** • <span style="color: #7d8590">Requires keyboard to play</span>
+
+<br>
+
+<img src="/public/animated-galaxy-banner.jpg" alt="Banner showing the Marble Race starting line.">
+
+<br>
+
+#### Project description
+
+> **TLDR**: A controllable, animated galaxy presented in 3D with hundreds of thousands of particles. Created with Three.js.<br>**Tech used**: Three.js, lil-gui, JavaScript, HTML, CSS
+
+This project explores particle systems and animation in 3D and handling hundreds of thousands of particle instances in the browser. It was created with Three.js and React Three Fiber.
+
+It features a whirling galaxy with distinct branches. The branches become more homogenous as the animation plays out. In the upper-right corner is a GUI that allows users to dynamically adjust multiple parameters for the scene, including colors, size, branches, and particle count.
+
+The work was undertaken as one of many steps in acquiring [my Three.js certification](https://threejs-journey.com/certificate/view/24741) through [Three.js Journey](https://threejs-journey.com/).
+
+<details>
+
+<summary>Project image</summary>
+
+<br>
+
+<img src="/public/animated-galaxy.jpg" alt="A whirling orange and yellow galaxy appears against the black backdrop of space.">
 
 </details>
 
