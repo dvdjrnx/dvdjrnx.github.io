@@ -41,7 +41,7 @@ I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
 
 ### [Marble Race](https://dvdjrnx.github.io/marble-race)
 
-**[View GitHub Repo](https://github.com/dvdjrnx/marble-race)** • **[View live prototype](https://dvdjrnx.github.io/marble-race)** • <span style="color: #7d8590">Requires keyboard to play</span>
+**[View GitHub repo](https://github.com/dvdjrnx/marble-race)** • **[View live prototype](https://dvdjrnx.github.io/marble-race)** • <span style="color: #7d8590">Requires keyboard to play</span>
 
 <br>
 
@@ -83,7 +83,7 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 
 ### [Model Dimension Extraction Test](https://dvdjrnx.github.io/model-viewer-dimensions)
 
-**[View GitHub Repo](https://github.com/dvdjrnx/model-viewer-dimensions)** • **[View live prototype](https://dvdjrnx.github.io/model-viewer-dimensions)** • <span style="color: #7d8590">Best viewed on desktop</span>
+**[View GitHub repo](https://github.com/dvdjrnx/model-viewer-dimensions)** • **[View live prototype](https://dvdjrnx.github.io/model-viewer-dimensions)** • <span style="color: #7d8590">Best viewed on desktop</span>
 
 <br>
 
