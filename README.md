@@ -35,6 +35,9 @@ I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
   <li>
     <a href="#scroll-based-animation">Scroll-based Animation</a>
   </li>
+  <li>
+    <a href="#3d-physics">3D Physics</a>
+  </li>
 </ul>
 
 </details>
@@ -69,7 +72,7 @@ I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
 
 #### Project description
 
-> **TLDR**: A 3D marble race game made with Three.js and React Three Fiber.<br>**Tech used**: React, Three.js, React Three Fiber, Drei, JavaScript, HTML, CSS
+> **TLDR**: A 3D marble race game made with Three.js and React Three Fiber.<br>**Tech used**: React, Three.js, React Three Fiber, Drei, Zustand, R3F-Perf, JavaScript, HTML, CSS
 
 This project brings together many concepts of working with Three.js and React Three Fiber to create an in-browser game controlled by a keyboard.
 
@@ -162,6 +165,42 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 <br>
 
 <img src="/public/scroll-based-animation.jpg" alt="The words My Portfolio sit against a starscape with a green donut shape floating off to the side.">
+
+</details>
+
+<br>
+
+[Back to Table of Contents](#table-of-contents) • [Back to top](#top)
+
+<hr>
+
+### [3D Physics](https://dvdjrnx.github.io/3d-physics)
+
+**[View GitHub repo](https://github.com/dvdjrnx/3d-physics)** • **[View live prototype](https://dvdjrnx.github.io/3d-physics)**
+
+<br>
+
+<img src="/public/3d-physics-banner.jpg" alt="Banner showing numerous 3D shapes falling onto a green plane under the effects of gravity.">
+
+<br>
+
+#### Project description
+
+> **TLDR**: A chaotic 3D scene implementing physics using Three.js and React Three Fiber.<br>**Tech used**: React, Three.js, React Three Fiber, React Three Rapier, R3F-Perf, Drei, JavaScript, HTML, CSS
+
+This project explores applying physics to a 3D scene created with Three.js and React Three Fiber. At its core, it features a spinning, rectangular block. Numerous models fall into the scene under the effects of gravity and are bounced around by the block, reacting as would be reasonably expected in the real world for their individual shapes.
+
+The project also displays a performance monitor for profiling different performance indicators, such as FPS, memory usage, and GPU load.
+
+The work was undertaken as one of many steps in acquiring [my Three.js certification](https://threejs-journey.com/certificate/view/24741) through [Three.js Journey](https://threejs-journey.com/).
+
+<details>
+
+<summary>Project image</summary>
+
+<br>
+
+<img src="/public/3d-physics.jpg" alt="Multiple peach cubes, a hamburger, and a yellow ball fall to a green floor with a spinning red rectangular block.">
 
 </details>
 
