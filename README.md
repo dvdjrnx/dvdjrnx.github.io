@@ -323,7 +323,7 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 
 #### Project description
 
-> **TLDR**:<br>A low poly sea with rolling waves and dynamic user controls. Made with Three.js.
+> **TLDR**:<br>A low-poly sea with rolling waves and dynamic user controls. Made with Three.js.
 >
 > **Tech used**:<br>`Three.js` • `WebGL` • `WebGL Shaders` • `lil-gui` • `JavaScript` • `HTML` • `CSS`
 
@@ -331,7 +331,7 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 
 This project explores animating WebGL shaders and patterns. It was created with Three.js.
 
-It features a features a low-poly sea with rolling waves. In the upper-right corner is a GUI that allows users to dynamically adjust multiple parameters for the scene, including wave elevation, frequency, and speed, small wave iterations, and sea colors.
+It features a low-poly sea with rolling waves. In the upper-right corner is a GUI that allows users to dynamically adjust multiple parameters for the scene, including wave elevation, frequency, and speed, small wave iterations, and sea colors.
 
 The work was undertaken as one of many steps in acquiring [my Three.js certification](https://threejs-journey.com/certificate/view/24741) through [Three.js Journey](https://threejs-journey.com/).
 
