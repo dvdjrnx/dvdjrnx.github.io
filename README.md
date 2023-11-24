@@ -72,7 +72,7 @@ I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
 
 #### Project description
 
-> **TLDR**: A 3D marble race game made with Three.js and React Three Fiber.<br>**Tech used**: `React` • `Three.js` • `React Three Fiber` • `Drei` • `Zustand` • `R3F-Perf` • `JavaScript` • `HTML` • `CSS`
+> **TLDR**: A 3D marble race game made with Three.js and React Three Fiber.<br>**Tech used**: `React` • `Three.js` • `React Three Fiber` • `React Three Rapier` • `react-postprocessing` • `Drei` • `Zustand` • `R3F-Perf` • `JavaScript` • `HTML` • `CSS`
 
 This project brings together many concepts of working with Three.js and React Three Fiber to create an in-browser game controlled by a keyboard.
 
