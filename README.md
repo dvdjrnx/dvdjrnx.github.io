@@ -65,7 +65,7 @@ I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
 
 ### [Marble Race](https://dvdjrnx.github.io/marble-race)
 
-**[View GitHub repo](https://github.com/dvdjrnx/marble-race)** • **[View live prototype](https://dvdjrnx.github.io/marble-race)** • <span style="color: #7d8590">Requires keyboard to play</span>
+**[View GitHub repo](https://github.com/dvdjrnx/marble-race)** • **[View live demo](https://dvdjrnx.github.io/marble-race)** • <span style="color: #7d8590">Requires keyboard to play</span>
 
 <br>
 
@@ -105,7 +105,7 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 
 ### [Animated Galaxy](https://dvdjrnx.github.io/animated-galaxy)
 
-**[View GitHub repo](https://github.com/dvdjrnx/animated-galaxy)** • **[View live prototype](https://dvdjrnx.github.io/animated-galaxy)**
+**[View GitHub repo](https://github.com/dvdjrnx/animated-galaxy)** • **[View live demo](https://dvdjrnx.github.io/animated-galaxy)**
 
 <br>
 
@@ -143,7 +143,7 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 
 ### [Scroll-based animation](https://dvdjrnx.github.io/scroll-based-animation)
 
-**[View GitHub repo](https://github.com/dvdjrnx/scroll-based-animation)** • **[View live prototype](https://dvdjrnx.github.io/scroll-based-animation)** • <span style="color: #7d8590">Best viewed in landscape orientation</span>
+**[View GitHub repo](https://github.com/dvdjrnx/scroll-based-animation)** • **[View live demo](https://dvdjrnx.github.io/scroll-based-animation)** • <span style="color: #7d8590">Best viewed in landscape orientation</span>
 
 <br>
 
@@ -181,7 +181,7 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 
 ### [3D Physics](https://dvdjrnx.github.io/3d-physics)
 
-**[View GitHub repo](https://github.com/dvdjrnx/3d-physics)** • **[View live prototype](https://dvdjrnx.github.io/3d-physics)**
+**[View GitHub repo](https://github.com/dvdjrnx/3d-physics)** • **[View live demo](https://dvdjrnx.github.io/3d-physics)**
 
 <br>
 
@@ -219,7 +219,7 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 
 ### [Portal Scene](https://dvdjrnx.github.io/portal-scene)
 
-**[View GitHub repo](https://github.com/dvdjrnx/portal-scene)** • **[View live prototype](https://dvdjrnx.github.io/portal-scene)**
+**[View GitHub repo](https://github.com/dvdjrnx/portal-scene)** • **[View live demo](https://dvdjrnx.github.io/portal-scene)**
 
 <br>
 
@@ -255,6 +255,46 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 
 <br>
 
+### [Post-processing](https://dvdjrnx.github.io/post-processing)
+
+**[View GitHub repo](https://github.com/dvdjrnx/post-processing)** • **[View live demo](https://dvdjrnx.github.io/post-processing)** • <span style="color: #7d8590">Best viewed in landscape orientation</span>
+
+<br>
+
+<img src="/public/post-processing-banner.jpg" alt="Banner showing the Marble Race starting line.">
+
+<br>
+
+#### Project description
+
+> **TLDR**: A 3D marble race game made with Three.js and React Three Fiber.<br>**Tech used**: `React` • `Three.js` • `React Three Fiber` • `React Three Rapier` • `react-postprocessing` • `Drei` • `Zustand` • `R3F-Perf` • `JavaScript` • `HTML` • `CSS`
+
+This project brings together many concepts of working with Three.js and React Three Fiber to create an in-browser game controlled by a keyboard.
+
+It features a marble that can be directed via arrow and WASD keys. It can also jump with the space bar. The goal is to move as quickly as possible down a track with multiple, randomized obstacles.
+
+When you first move, a timer begins. Upon reaching the end of the track, the timer stops and shows you your time. You can then restart to beat your previous record.
+
+The work was undertaken as one of many steps in acquiring [my Three.js certification](https://threejs-journey.com/certificate/view/24741) through [Three.js Journey](https://threejs-journey.com/).
+
+<details>
+
+<summary>Project image</summary>
+
+<br>
+
+<img src="/public/post-processing.jpg" alt="A purple marble sits at the beginning of a race track filled with moving red obstacles. The words Marble Race appear beside the marble. There's an unstarted timer that appears above the marble and a simplistic display of arrow or WASD keys and a space bar below.">
+
+</details>
+
+<br>
+
+[Back to Table of Contents](#table-of-contents) • [Back to top](#top)
+
+<hr>
+
+<br>
+
 <br>
 
 ## Small prototypes
@@ -263,7 +303,7 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 
 ### [Model Dimension Extraction Test](https://dvdjrnx.github.io/model-viewer-dimensions)
 
-**[View GitHub repo](https://github.com/dvdjrnx/model-viewer-dimensions)** • **[View live prototype](https://dvdjrnx.github.io/model-viewer-dimensions)** • <span style="color: #7d8590">Best viewed on desktop</span>
+**[View GitHub repo](https://github.com/dvdjrnx/model-viewer-dimensions)** • **[View live demo](https://dvdjrnx.github.io/model-viewer-dimensions)** • <span style="color: #7d8590">Best viewed on desktop</span>
 
 <br>
 
