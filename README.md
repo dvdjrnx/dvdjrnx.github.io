@@ -1,5 +1,5 @@
 <a id="top"></a>
-<img src="/public/dvdjrnx.jpg" alt="Headshot of front-end developer and growing UX/UI designer, David Journeaux" width="240" style="border-radius: 100%;">
+<img src="/public/dvdjrnx.jpg" alt="Headshot of front-end developer and growing UX/UI designer, David Journeaux" width="240" height="240" style="border-radius: 100%;">
 
 # dvdjrnx.github.io
 
