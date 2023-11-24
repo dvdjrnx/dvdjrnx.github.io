@@ -41,6 +41,9 @@ I hope you’ll appreciate and enjoy the journey as much as I intend to myself.
   <li>
     <a href="#portal-scene">Portal Scene</a>
   </li>
+  <li>
+    <a href="#post-processing">Post-processing</a>
+  </li>
 </ul>
 
 </details>
@@ -229,7 +232,7 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 
 #### Project description
 
-> **TLDR**: A low-poly 3D portal scene featuring custom animated shaders. Modeled in Blender, shaded and coded in Three.js and React Three Fiber.<br>**Tech used**: `React` • `Three.js` • `React Three Fiber` • `WebGL` • `Drei` • `JavaScript` • `HTML` • `CSS`
+> **TLDR**: A low-poly 3D portal scene featuring custom animated shaders. Modeled in Blender, shaded and coded in Three.js and React Three Fiber.<br>**Tech used**: `React` • `Three.js` • `React Three Fiber` • `WebGL` • `WebGL Shaders` • `Drei` • `JavaScript` • `HTML` • `CSS`
 
 This project explores writing custom animated shaders, building a scene in blender, baking lighting, and loading the scene in Three.js. The project also makes use of React Three Fiber.
 
@@ -284,6 +287,44 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 <br>
 
 <img src="/public/post-processing.jpg" alt="A 3D rendering of a ball and a cube under the influence of a 'Drunk Effect' post-processing filter, evidenced by on-screen sliders for frequency and amplitude adjustments. The ball and cube are resting on a flat surface with a light green background. The ball appears distorted into an egg shape, and the cube has a slightly skewed form, demonstrating the effects of the filter on simple geometric shapes.">
+
+</details>
+
+<br>
+
+[Back to Table of Contents](#table-of-contents) • [Back to top](#top)
+
+<hr>
+
+<br>
+
+### [Raging Sea](https://dvdjrnx.github.io/raging-sea)
+
+**[View GitHub repo](https://github.com/dvdjrnx/raging-sea)** • **[View live demo](https://dvdjrnx.github.io/raging-sea)**
+
+<br>
+
+<img src="/public/raging-sea-banner.jpg" alt="A wide banner image depicting an abstract representation of a tumultuous sea with dynamic shades of blue, creating the illusion of waves in motion under a stormy sky.">
+
+<br>
+
+#### Project description
+
+> **TLDR**: A low poly sea with rolling waves and dynamic user controls. Made with Three.js.<br>**Tech used**: `Three.js` • `WebGL` • `WebGL Shaders` • `lil-gui` • `JavaScript` • `HTML` • `CSS`
+
+This project explores animating WebGL shaders and patterns. It was created with Three.js.
+
+It features a features a low-poly sea with rolling waves. In the upper-right corner is a GUI that allows users to dynamically adjust multiple parameters for the scene, including wave elevation, frequency, and speed, small wave iterations, and sea colors.
+
+The work was undertaken as one of many steps in acquiring [my Three.js certification](https://threejs-journey.com/certificate/view/24741) through [Three.js Journey](https://threejs-journey.com/).
+
+<details>
+
+<summary>Project image</summary>
+
+<br>
+
+<img src="/public/raging-sea.jpg" alt="A 3D image that simulates a raging sea at night with varying shades of blue, alongside a control panel with sliders for 'bigWavesElevation', 'bigWavesFrequency', and other parameters, indicating this is a computer-generated visualization with adjustable settings for wave dynamics.">
 
 </details>
 
